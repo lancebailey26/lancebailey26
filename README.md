@@ -5,4 +5,4 @@ I'm a Full Stack Web Dev. Here you'll find some of the projects and apps I've bu
 If you'd like to contact me, you can reach me at:
 
 # Email: Lancebailey222@gmail.com
-# Twitter: @lancebailey26(https://www.twitter.com/lancebailey26)
+# Twitter: [@lancebailey26](https://www.twitter.com/lancebailey26)
