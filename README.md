@@ -1,8 +1,17 @@
-## Hi there! I'm Lance.
+#  Hi, I’m Lance
 
-I'm a Web Developer, working mainly in Meteor.js and React. Here you'll find some of the projects and apps I've built, and what I'm currently working on.
+I like to make stuff and make obscure pop culture references.
 
-If you'd like to contact me, you can reach me at:
 
-# Email: Lancebailey222@gmail.com
-# Twitter: [@lancebailey26](https://www.twitter.com/lancebailey26)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,nodejs" />
+</p>
+
+
+
+## Contact
+
+**Email:**  
+📧 [**Lancebailey222@gmail.com**](mailto:Lancebailey222@gmail.com)
+
